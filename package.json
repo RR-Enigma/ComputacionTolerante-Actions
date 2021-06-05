@@ -1,0 +1,23 @@
+{
+  "name": "github-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "multiplicacion.js",
+  "scripts": {
+    "test": "jest",
+    "build": "node multiplicacion"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RR-Enigma/ComputacionTolerante-Actions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RR-Enigma"
+  },
+  "homepage": "https://github.com/RR-Enigma/ComputacionTolerante-Actions/blob/main/README.md",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
